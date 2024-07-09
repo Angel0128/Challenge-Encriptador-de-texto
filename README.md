@@ -1,8 +1,7 @@
 
 
 
-![Screenshot de la pagina](https://github.com/IvonEsc/Encriptador/blob/main/img/portada.png?raw=true)
-
+![Screenshot de la pagina] (https://github.com/Angel0128/Challenge-Encriptador-de-texto/blob/17e4259f684ad55284c2b01e69c97aa76cd37d1b/img/portada.jpeg)
 
 #  🛰️ Encriptador
 
